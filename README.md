@@ -1,1 +1,1 @@
-# AlgorithmCourse
+# Algorithm Course - Assignment #2
